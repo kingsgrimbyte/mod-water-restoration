@@ -1,0 +1,18 @@
+{
+  "No": "(555) 123-4567",
+  "tel": "5551234567",
+  "mail": "info@modwaterrestoration.com",
+  "baseUrl": "https://modwaterrestoration.com/",
+  "host": "modwaterrestoration.com",
+  "name": "Mod Water Restoration",
+  "address": "9299 W Olive Ave Ste 603 Glendale, AZ 85345, United States",
+  "service": "Water Damage Restoration Service",
+  "location": "Glendale, AZ",
+  "zipCode": "85345",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/modwaterrestoration_com/Water_Damage_Restoration_ContactInfo_bannerImage_GojKX_2t5.jpg",
+  "logoImage": "https://ik.imagekit.io/h7rza8886p/Mod%20Water%20Restoration.png?updatedAt=1752042568845",
+  "googleAnalytics": "",
+  "favicon": "https://ik.imagekit.io/h7rza8886p/Mod%20Water%20Restorationfavicon.ico?updatedAt=1752042592101",
+  "minor": "#b00046",
+  "main": "#fd0065"
+}
